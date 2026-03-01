@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local RAG System
 
 A modular, production-ready **Retrieval-Augmented Generation** pipeline that runs entirely on your machine. No LangChain.
@@ -100,3 +101,6 @@ answer = rag.query("Your question here")
 ## License
 
 MIT
+=======
+# RAG-PROJECT
+>>>>>>> 99436c9b89a56999b41be884682a27ffa7d1bdcb
