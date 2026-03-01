@@ -98,9 +98,7 @@ answer = rag.query("Your question here")
 - **Other file types:** Extend `src/ingestion/loader.py` and add new loaders; keep using the same chunker and pipeline.
 - **Other embedders/LLMs:** Swap `EmbeddingEncoder` and `OllamaClient` for your own implementations; the RAG pipeline stays the same.
 
-## License
 
-MIT
-=======
-# RAG-PROJECT
->>>>>>> 99436c9b89a56999b41be884682a27ffa7d1bdcb
+
+
+
