@@ -1,0 +1,14 @@
+# PDF
+PyMuPDF>=1.24.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# LLM (Ollama - local; requests for API)
+requests>=2.28.0
+
+# UI
+streamlit>=1.28.0
